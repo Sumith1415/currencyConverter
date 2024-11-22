@@ -78,18 +78,3 @@ input, select {
   color: rgba(0,80,110,0.7);
   cursor: pointer;
 }
-
-@media (max-width: 600px) {
-  .containerDiv {
-    padding: 20px;
-    max-width: 90%;
-  }
-
-  .title {
-    font-size: 20px;
-  }
-
-  input, select, button {
-    font-size: 14px;
-  }
-}
