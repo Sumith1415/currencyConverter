@@ -1,5 +1,6 @@
-# currencyConverter
-
-Both API's are free.<br>
+# currencyConverter 2 api Free
+<br>
+1.Folder currencyConverter1:-<br>
 By using https://currencylayer.com api.<br>
+2.Folder currencyConverter2:-<br>
 By using https://github.com/fawazahmed0/currency-api api.
