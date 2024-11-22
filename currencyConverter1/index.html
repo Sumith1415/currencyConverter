@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Currency Converter</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Currency Converter</h1>
+    
+    <div class="form">
+      
+      <div class="form-group">
+        <label>Enter Amount:</label>
+        <input type="number" id="amount" placeholder="Enter ur Amount" required>
+      </div>
+      
+      <div class="form-group">
+        <label>From </label>
+          <select id="from">
+            <option value="from_opt">Choose Value</option>
+          </select>
+      </div>
+
+      <div class="form-group">
+        <label>To </label>
+        <select id="to">
+          <option value="to_opt">Choose Value</option>
+        </select>
+      </div>
+       
+      <div class="form-group">
+        Result: <span id="display">0</span>
+      </div>
+      
+      <input type="submit" id="submit" value="Convert" onclick="fun()">
+     
+    </div>
+    
+  </div>
+</body>
+<script src="optionCreate.js"></script>
+<script src="app.js"></script>
+</html>
