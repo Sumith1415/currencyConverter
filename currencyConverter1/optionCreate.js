@@ -9,7 +9,7 @@ let from = document.querySelector('#from');
 let to = document.querySelector('#to');
 
 let accesskey = 'c49957d1801f1bdf2277a3462b42f601';//replace this accesskey with yours accesskey
-let apiurl = 'http://api.currencylayer.com/list?access_key='+accesskey
+let apiurl = 'https://api.currencylayer.com/list?access_key='+accesskey
 
 fetch(apiurl)
 .then(response => response.json())
