@@ -1,6 +1,6 @@
 Currency Converter api using https://currencylayer.com
 
-Free and 100 request per month
+Free and 100 request per month and requires access key
 
 Steps:-
 1. Sign-up in https://currencylayer.com.
