@@ -1,4 +1,4 @@
-# currencyConverter 2 api Free
+# currencyConverter 2 free APIs 
 <br>
 1.Folder currencyConverter1:-<br>
 By using https://currencylayer.com api.<br>
